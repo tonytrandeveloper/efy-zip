@@ -1,0 +1,34 @@
+{
+    "URL_DATA_KEY": "https://res.cloudinary.com/dztxps8sz/raw/upload/data/",
+
+    "URL_MEDIA_AUDIO_WRITING_DICTATION_TOPIC_KEY": "https://res.cloudinary.com/dihknherf/video/upload/audio/writing/dictation-topic/",
+    "URL_MEDIA_AUDIO_WRITING_DICTATION_LEVEL_BEGINNER_KEY": "https://res.cloudinary.com/diyqhsjpw/video/upload/audio/writing/dictation-level/beginner/",
+    "URL_MEDIA_AUDIO_WRITING_DICTATION_LEVEL_INTERMEDIATE_KEY": "https://res.cloudinary.com/dbvkpgl6x/video/upload/audio/writing/dictation-level/intermediate/",
+
+    "URL_MEDIA_AUDIO_READING_AUDIO_LEVEL_INTERMEDIATE_KEY": "https://res.cloudinary.com/dluumm8jt/video/upload/audio/reading/audio-level-intermediate/",
+    "URL_MEDIA_AUDIO_READING_AUDIO_LEVEL_BEGINNER_KEY": "https://res.cloudinary.com/dorpe4j7z/video/upload/audio/reading/audio-level-beginner/",
+
+    "URL_MEDIA_AUDIO_SPEAKING_CONVERSATION_LEVEL_BEGINNER_KEY": "https://res.cloudinary.com/dnukpmd1e/video/upload/audio/speaking/conversation-level/beginner/",
+    "URL_MEDIA_AUDIO_SPEAKING_CONVERSATION_LEVEL_INTERMEDIATE_KEY": "https://res.cloudinary.com/dlbvu1o8j/video/upload/audio/speaking/conversation-level/intermediate/",
+    "URL_MEDIA_AUDIO_SPEAKING_STRUCTURE_COMMON_KEY": "https://res.cloudinary.com/dmfw2crtl/video/upload/audio/speaking/structure-common/",
+    "URL_MEDIA_AUDIO_SPEAKING_PHONETICS_KEY": "https://res.cloudinary.com/djqnfkyl1/video/upload/audio/speaking/phonetics/",
+
+    "URL_MEDIA_AUDIO_LISTENING_PHOTOGRAPHS_KEY": "https://res.cloudinary.com/dbf5n60lf/video/upload/audio/listening/photographs/",
+    "URL_MEDIA_AUDIO_LISTENING_SHORT_TALKS_KEY": "https://res.cloudinary.com/den1m4zbm/video/upload/audio/listening/short-talks/",
+    "URL_MEDIA_AUDIO_LISTENING_CONVERSATIONS_KEY": "https://res.cloudinary.com/ddhbucgrn/video/upload/audio/listening/conversations/",
+    "URL_MEDIA_AUDIO_LISTENING_COMPREHENSION_LEVEL_KEY": "https://res.cloudinary.com/dmbohdsne/video/upload/audio/listening/comprehension-level/",
+    "URL_MEDIA_IMAGE_LISTENING_KEY": "https://res.cloudinary.com/dn9es7is0/image/upload/image/listening/",
+
+    "URL_DATA_DICTIONARY_ZIP_KEY": "https://tonytrandeveloper.github.io/efy-zip/dic.zip",
+    "URL_MEDIA_AUDIO_DICTIONARY_US_KEY": "https://res.cloudinary.com/dgqyo6rxq/video/upload/audio/dictionary/us/",
+    "URL_MEDIA_AUDIO_DICTIONARY_UK_KEY": "https://res.cloudinary.com/dgqyo6rxq/video/upload/audio/dictionary/uk/",
+
+    "URL_MEDIA_AUDIO_VOCABULARY_KEY": "https://res.cloudinary.com/dule64wpw/video/upload/audio/vocabulary/",
+    "URL_MEDIA_AUDIO_VOCABULARY_OXFORD_TOPIC_US_KEY": "https://res.cloudinary.com/dg4qhtati/video/upload/audio/vocabulary-oxford-topic/us/",
+    "URL_MEDIA_AUDIO_VOCABULARY_OXFORD_TOPIC_UK_KEY": "https://res.cloudinary.com/dphhzdsed/video/upload/audio/vocabulary-oxford-topic/uk/",
+    "URL_MEDIA_IMAGE_VOCABULARY_KEY": "https://res.cloudinary.com/dkixlfecl/image/upload/image/vocabulary/",
+
+    "URL_DATA_VIDEO_ZIP_KEY": "https://tonytrandeveloper.github.io/efy-zip/video.zip",
+    "URL_MEDIA_IMAGE_YOUTUBE_KEY": "https://res.cloudinary.com/dbtjcb7oz/image/upload/image/video/",
+    "URL_VIDEO_TRANSCRIPT_KEY": "https://res.cloudinary.com/dgqyo6rxq/raw/upload/video-transcript/"
+}
